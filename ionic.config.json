@@ -1,0 +1,7 @@
+{
+  "name": "electiva-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
